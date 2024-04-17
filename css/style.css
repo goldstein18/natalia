@@ -260,7 +260,7 @@ Image credits: unsplash.com
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url(../images/banner1.jpg);
+  background-image: url(../images/nuevobanner1.png);
 }
 .fade-carousel .slides .slide-2 {
   background-image: url(../images/banner2.jpg);
@@ -1408,6 +1408,7 @@ color: #282a2e;
   background-repeat: no-repeat;
   background-position: center 0;
   color: #ffffff;
+  width: 100%;
  }
 
  .pintura h1{
